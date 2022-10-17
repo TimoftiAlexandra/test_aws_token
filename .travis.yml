@@ -2,6 +2,6 @@ os: linux
 env:
   - STR1: AKIAI6E66XXXX4SKIJWA
   - STR2: I3as/CEqgpXXXxxxXKNQnvDuQ25mxo4KPXR0KgmO
-  script:
+script:
   - echo $STR1
   - echo $STR2
